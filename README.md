@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2540-minimum-common-value) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0160-intersection-of-two-linked-lists) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
