@@ -41,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0492-construct-the-rectangle](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0492-construct-the-rectangle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
