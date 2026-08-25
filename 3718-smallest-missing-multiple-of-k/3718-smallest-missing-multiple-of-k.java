@@ -1,6 +1,6 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        HashSet<Integer> set = new HashSet<>();
+             HashSet<Integer> set = new HashSet<>();
         for(int x: nums){
             set.add(x);
         }
@@ -10,4 +10,4 @@ class Solution {
         }
         return multi;
     }
-}
+    }
