@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0290-word-pattern) |
 | [2540-minimum-common-value](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0520-detect-capital) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting
