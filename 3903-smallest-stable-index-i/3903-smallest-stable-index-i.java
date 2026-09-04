@@ -1,20 +1,19 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
+        int[] right = new int[nums.length];
+        right[nums.length-1]= nums[nums.length-1];
+        for(int i= nums.length-2;i>=0;i--){
+            right[i]= Math.min(right[i+1],nums[i]);
+        }
         int max =0;
         for(int i=0;i<nums.length;i++){
             max = Math.max(max,nums[i]);
-            int min = minimum(nums,i);
-            if(max-min <= k){
+         
+            if(max-right[i] <= k){
                 return i;
             }
         }
-        return -1;
-    }
-    public int minimum(int[] arr ,int j){
-        int a =Integer.MAX_VALUE;
-        for(int i=j;i<arr.length;i++){
-            a= Math.min(arr[i],a);
-        }
-        return a;
-    }
+        return -1 ;
+    } 
+   
 }
