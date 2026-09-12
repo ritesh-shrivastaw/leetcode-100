@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0682-baseball-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1470-shuffle-the-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
