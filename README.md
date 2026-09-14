@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0492-construct-the-rectangle) |
+| [0836-rectangle-overlap](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0836-rectangle-overlap) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3783-mirror-distance-of-an-integer) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
