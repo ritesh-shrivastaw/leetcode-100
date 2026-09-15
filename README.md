@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0160-intersection-of-two-linked-lists) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0520-detect-capital) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Counting
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0115-distinct-subsequences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Enumeration
 |  |
 | ------- |
