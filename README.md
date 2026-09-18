@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2540-minimum-common-value) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2540-minimum-common-value](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0520-detect-capital) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Counting
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Linked List
 |  |
 | ------- |
