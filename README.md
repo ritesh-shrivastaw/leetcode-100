@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
