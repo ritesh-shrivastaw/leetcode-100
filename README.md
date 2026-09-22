@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2553-separate-the-digits-in-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0492-construct-the-rectangle) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
