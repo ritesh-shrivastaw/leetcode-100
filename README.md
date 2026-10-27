@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0682-baseball-game) |
+| [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0389-find-the-difference) |
+| [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -234,4 +236,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
