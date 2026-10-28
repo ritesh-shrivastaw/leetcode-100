@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0682-baseball-game) |
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0540-single-element-in-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2540-minimum-common-value) |
