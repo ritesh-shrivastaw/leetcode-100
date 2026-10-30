@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0290-word-pattern) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0435-non-overlapping-intervals) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -268,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
