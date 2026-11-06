@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0540-single-element-in-a-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
