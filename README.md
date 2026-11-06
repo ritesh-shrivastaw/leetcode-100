@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1512-number-of-good-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0540-single-element-in-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2540-minimum-common-value) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Database
