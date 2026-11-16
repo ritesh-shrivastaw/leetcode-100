@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0739-daily-temperatures) |
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
+| [0997-find-the-town-judge](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0997-find-the-town-judge) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0997-find-the-town-judge) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1748-sum-of-unique-elements) |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
