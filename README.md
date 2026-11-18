@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0860-lemonade-change) |
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0997-find-the-town-judge) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0860-lemonade-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
