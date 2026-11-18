@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0088-merge-sorted-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0435-non-overlapping-intervals) |
