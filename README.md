@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0881-boats-to-save-people) |
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0997-find-the-town-judge) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2540-minimum-common-value) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0881-boats-to-save-people) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0509-fibonacci-number) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
