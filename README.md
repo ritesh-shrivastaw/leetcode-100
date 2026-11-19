@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0389-find-the-difference) |
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0191-number-of-1-bits) |
 ## Backtracking
 |  |
 | ------- |
