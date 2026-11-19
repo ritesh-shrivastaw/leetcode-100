@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2299-strong-password-checker-ii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2299-strong-password-checker-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3498-reverse-degree-of-a-string) |
