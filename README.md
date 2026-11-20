@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0290-word-pattern) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0349-intersection-of-two-arrays) |
