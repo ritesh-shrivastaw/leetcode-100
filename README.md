@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1207-unique-number-of-occurrences) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1360-number-of-days-between-two-dates](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1512-number-of-good-pairs) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Sliding Window
 |  |
