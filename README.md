@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1512-number-of-good-pairs) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0389-find-the-difference) |
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
