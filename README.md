@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0461-hamming-distance) |
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
