@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2299-strong-password-checker-ii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2299-strong-password-checker-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
