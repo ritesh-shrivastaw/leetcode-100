@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1352-product-of-the-last-k-numbers) |
 | [1360-number-of-days-between-two-dates](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1486-xor-operation-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0461-hamming-distance) |
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
