@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0682-baseball-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0997-find-the-town-judge](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0520-detect-capital) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0680-valid-palindrome-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
