@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0896-monotonic-array) |
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1207-unique-number-of-occurrences) |
