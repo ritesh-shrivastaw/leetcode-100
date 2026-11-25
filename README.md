@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0682-baseball-game) |
+| [1103-distribute-candies-to-people](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1103-distribute-candies-to-people) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0836-rectangle-overlap) |
+| [1103-distribute-candies-to-people](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1103-distribute-candies-to-people) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1352-product-of-the-last-k-numbers) |
