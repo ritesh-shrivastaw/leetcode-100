@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0461-hamming-distance) |
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0678-valid-parenthesis-string) |
