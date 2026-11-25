@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0896-monotonic-array) |
 | [0980-unique-paths-iii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0997-find-the-town-judge) |
+| [1089-duplicate-zeros](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/0881-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/ritesh-shrivastaw/leetcode-100/tree/master/2540-minimum-common-value) |
